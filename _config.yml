@@ -1,5 +1,6 @@
 title: "Your Blog Title"
 description: "Insights on Shift-Left Testing, Automation, and DevSecOps"
 theme: jekyll-theme-minimal
+markdown: kramdown
 plugins:
   - jekyll-feed
